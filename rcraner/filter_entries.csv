@@ -1,0 +1,8 @@
+filter_name,dest_port_end,dest_port_beg,src_port_end,src_port_beg,protocol,ethertype,entry_name
+SSH,22,22,unspecified,unspecified,tcp,ip,TCP-SSH
+HTTP,80,80,unspecified,unspecified,tcp,ip,TCP-HTTP
+HTTPS,443,443,unspecified,unspecified,tcp,ip,TCP-HTTPS
+DNS,53,53,unspecified,unspecified,tcp,ip,TCP-DNS
+DNS,53,53,unspecified,unspecified,udp,ip,UDP-DNS
+HTTP,8080,8080,unspecified,unspecified,tcp,ip,TCP-8080
+SSH,2022,2022,unspecified,unspecified,pornhub,yourmom,whalesvagina
